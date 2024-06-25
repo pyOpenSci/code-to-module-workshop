@@ -1,11 +1,30 @@
-site,average_snow,average_temp
-SiteA,15,32
-SiteB,20,28
-SiteC,3,67
-SiteD,25,30
-SiteE,4,68
-SiteF,30,25
-SiteG,2,78
-SiteH,18,33
-SiteI,22,27
-SiteJ,0,66
+site,average_snowfall,average_temperature,country
+Mount Etna,13,22,Italy
+Table Mountain,0,20,South Africa
+Mount Massive,20,28,USA
+Mount Harvard,3,67,USA
+La Plata Peak,4,68,USA
+Pikes Peak,30,25,USA
+Mount Kosciuszko,5,15,Australia
+Ben Nevis,8,10,Scotland
+Mount Vesuvius,0,25,Italy
+Mount Snowdon,5,8,Wales
+Mount Fuji,20,10,Japan
+Mount Teide,10,18,Spain
+Mount Sinai,0,30,Egypt
+Mount Whitney,20,5,USA
+Mount Everest,50,-15,Nepal
+Denali,45,-10,USA
+Mount Kilimanjaro,5,20,Tanzania
+Mount Cook,25,5,New Zealand
+Aconcagua,10,-5,Argentina
+Mont Blanc,35,0,France
+Elbrus,30,-8,Russia
+Mount Vinson,20,-30,Antarctica
+Cerro Torre,15,5,Argentina
+Mount Elbert,15,32,USA
+Mount McKinley (Denali),45,-10,USA
+Longs Peak,2,78,USA
+Quandary Peak,18,33,USA
+Castle Peak,22,27,USA
+Grays Peak,0,66,USA
