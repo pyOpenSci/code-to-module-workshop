@@ -1,5 +1,7 @@
 # pyOpenSci: Code to module workshop -- Create your first Python package
 
+![pyOpenSci Logo](pyopensci-logo-dark-mode.png)
+
 ## About
 
 Creating code that can be shared and reused is the pinnacle of open science.
