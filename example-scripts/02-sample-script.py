@@ -1,14 +1,3 @@
-"""In this module we have replaced the steps with functions. 
-
-* value in doing this
-* outcome...
-
-however these functions are only available to you in this script. 
-If you want to make these functions available to you as installable modules, 
-that is when a package comes into play. 
-
-"""
-
 import pandas as pd
 import os
 
