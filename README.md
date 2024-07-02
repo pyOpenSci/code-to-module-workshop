@@ -34,7 +34,7 @@ to attending:
 * [Hatch](https://www.pyopensci.org/python-package-guide/tutorials/get-to-know-hatch.htmlhttps://www.pyopensci.org/python-package-guide/tutorials/get-to-know-hatch.html)
 * A terminal or shell where you can call Python and enter terminal commands such as `hatch --version` (see below)
 * A code editor where you can edit `.py` files.
-* Optional: download / clone this workshop repository
+* Optional: If you plan to use our provided resources during the workshop rather than bring your own script (encouraged!), please download or clone this workshop repository so you have all of the files on your computer prior to the workshop beginning. 
 
 Your instructor will be teaching using VSCode with the Python extension installed. Vscode has an integrated terminal. You do not need to use VScode to be successful in 
 this training! 
