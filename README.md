@@ -20,7 +20,7 @@ You will leave this tutorial understanding how to:
 ## What this repo contains
 
 This is a public repo that contains the scripts and information used in the
-code-to-module training.
+code-to-module training. 
 
 [Click here to see a detailed overview of the workshop agenda.](#TODO-link-to-jesse-post)
 
@@ -34,7 +34,12 @@ to attending:
 * [Hatch](https://www.pyopensci.org/python-package-guide/tutorials/get-to-know-hatch.htmlhttps://www.pyopensci.org/python-package-guide/tutorials/get-to-know-hatch.html)
 * A terminal or shell where you can call Python and enter terminal commands such as `hatch --version` (see below)
 * A code editor where you can edit `.py` files.
-* Optional: If you plan to use our provided resources during the workshop rather than bring your own script (encouraged!), please download or clone this workshop repository so you have all of the files on your computer prior to the workshop beginning. 
+* Optional: If you plan to use our provided resources during the workshop rather than bring your own script (encouraged!), please download or clone this workshop repository so you have all of the files on your computer prior to the workshop beginning.
+
+Note: You can easily download this repository as a .zip file by clicking on the green code drop down button and selecting "Download Zip".
+
+<img width="554" alt="Screenshot 2024-07-02 at 1 27 58 PM" src="https://github.com/pyOpenSci/code-to-module-workshop/assets/7649194/aa05870a-94d9-4670-8aba-d343e4918b53">
+
 
 Your instructor will be teaching using VSCode with the Python extension installed. Vscode has an integrated terminal. You do not need to use VScode to be successful in 
 this training! 
