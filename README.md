@@ -24,6 +24,16 @@ code-to-module training.
 
 [Click here to see a detailed overview of the workshop agenda.](#TODO-link-to-jesse-post)
 
+## Data used for this module 
+
+We have made up a dataset that represents snowfall and temperature for peaks 
+around the world. You could also chose to develop your own workflow if you wish 
+and download data from the following sources:
+
+* [UN data](https://population.un.org/dataportal/about/dataapi)
+# Colorado census / population data: https://data.colorado.gov/resource/tv8u-hswn.csv
+# Colorado data: https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/apis-in-python/
+
 ## What you need to install
 
 For this workshop, you’ll need the following installed on your computer prior

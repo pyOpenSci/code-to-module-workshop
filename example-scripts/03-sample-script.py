@@ -9,18 +9,17 @@ that is when a package comes into play.
 
 """
 
-import os
-
 from my_module import load_data, summarize_data, categorize_snowfall_amount
 
 
 def main():    """
     Main function to execute the workflow.
     """
-    base_path = os.path.join("example-scripts", "data.csv")
+    data_path = "https://raw.githubusercontent.com/pyOpenSci/code-to-module-workshop/main/example-scripts/data.csv"
+
 
     # Load and clean the data
-    data = load_data(base_path)
+    data = load_data(data_path)
     print(data)
 
     # Add snowfall category

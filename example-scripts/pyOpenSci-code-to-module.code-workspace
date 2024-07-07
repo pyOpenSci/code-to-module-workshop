@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../pyospackage"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/Users/leahawasser/mambaforge/envs/codetomodule/bin/python"
+	}
+}
