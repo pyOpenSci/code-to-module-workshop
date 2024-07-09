@@ -28,7 +28,6 @@ def main():    """
     # Summarize the data
     summary = summarize_data(data)
 
-    # Print the results
     print("Data with snowfall categories:")
     print(data)
     print("\nSummary of data by snowfall category:")
